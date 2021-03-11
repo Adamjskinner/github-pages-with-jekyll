@@ -1,6 +1,10 @@
 ---
 title: "Welcome to my blog"
-date: 2019-01-20
+date: 2021-02-01
 ---
 
-something goes here
+Here is a selection of the first few I've captured
+![name of the image][/assets/P6740674.JPG]
+![name of the image][/assets/P6740674.JPG]
+![name of the image][/assets/P6740674.JPG]
+![name of the image][/assets/P6740674.JPG]
