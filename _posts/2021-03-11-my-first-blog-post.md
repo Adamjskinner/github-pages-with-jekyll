@@ -5,7 +5,7 @@ date: 2021-02-01
 
 Here is a selection of the first few I've captured.
 
-![Blue Tit](/assets/Blue Tit.jpg)
-![Long Tailed Tit](/assets/Long Tailed Tit.jpg)
-![Redwing](/assets/Redwing.JPG)
-![Robin](/assets/Robin.JPG)
+![Blue Tit](https://github.com/Adamjskinner/github-pages-with-jekyll/assets/Blue%20Tit.jpg)
+![Long Tailed Tit](https://github.com/Adamjskinner/github-pages-with-jekyll/assets/Long%20Tailed%20Tit.jpg)
+![Redwing](https://github.com/Adamjskinner/github-pages-with-jekyll/assets/Redwing.JPG)
+![Robin](https://github.com/Adamjskinner/github-pages-with-jekyll/assets/Robin.JPG)
