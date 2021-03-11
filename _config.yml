@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A selection of the photos taken for the Bird Watching Magazines #My200BirdYear.
 
 # social links
-twitter_username: adamjskinnerphotography
+twitter_username: adamskinnerphotography
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
