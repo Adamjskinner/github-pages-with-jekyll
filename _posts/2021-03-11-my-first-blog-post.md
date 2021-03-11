@@ -4,7 +4,7 @@ date: 2021-02-01
 ---
 
 Here is a selection of the first few I've captured
-![name of the image][/assets/P6740674.JPG]
-![name of the image][/assets/P6740674.JPG]
-![name of the image][/assets/P6740674.JPG]
-![name of the image][/assets/P6740674.JPG]
+![Blue Tit][/assets/Blue Tit.JPG]
+![Long Tailed Tit][/assets/Long Tailed Tit.JPG]
+![Redwing][/assets/Redwing.JPG]
+![Robin][/assets/Robin.JPG]
